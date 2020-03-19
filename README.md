@@ -10,7 +10,7 @@ You need install `pyquery` & `requests`
 
 ```bash
   $ git clone 
-  $ cd github-trending
+  $ cd trending
   $ pip install -r requirements.txt
   $ python scraper.py
 ```
