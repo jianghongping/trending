@@ -10,10 +10,12 @@ year = datetime.date.today().strftime('%Y')
 
 def git_add_commit_push(date, filename):
     # year = datetime.date.today().strftime('%Y')
+    cmd_git_pull = 'git pull'
     cmd_git_add = 'git add {year}/{filename}'.format(year=year,filename=filename)
     cmd_git_commit = 'git commit -m "{date}"'.format(date=date)
     cmd_git_push = 'git push -u origin master'
-
+    
+    os.system(cmd_git_pull)
     os.system(cmd_git_add)
     os.system(cmd_git_commit)
     os.system(cmd_git_push)
