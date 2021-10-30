@@ -1,0 +1,64 @@
+## 2021-10-03
+
+#### python
+* [great-expectations / great_expectations](https://github.com/great-expectations/great_expectations):great-expectations /!Always know what to expect from your data.
+* [willmcgugan / textual](https://github.com/willmcgugan/textual):willmcgugan /!Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
+* [Ganapati / RsaCtfTool](https://github.com/Ganapati/RsaCtfTool):Ganapati /!RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data
+* [wagtail / wagtail](https://github.com/wagtail/wagtail):wagtail /!A Django content management system focused on flexibility and user experience
+* [jina-ai / jina](https://github.com/jina-ai/jina):jina-ai /!Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data
+* [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python):TheAlgorithms /!All Algorithms implemented in Python
+* [PrefectHQ / prefect](https://github.com/PrefectHQ/prefect):PrefectHQ /!The easiest way to automate your data
+* [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer):donnemartin /!Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+* [sherlock-project / sherlock](https://github.com/sherlock-project/sherlock):sherlock-project /!🔎
+Hunt down social media accounts by username across social networks
+* [PyGithub / PyGithub](https://github.com/PyGithub/PyGithub):PyGithub /!Typed interactions with the GitHub API v3
+* [psf / black](https://github.com/psf/black):psf /!The uncompromising Python code formatter
+* [PaddlePaddle / PaddleClas](https://github.com/PaddlePaddle/PaddleClas):PaddlePaddle /!A treasure chest for visual recognition powered by PaddlePaddle
+* [alger-ia / dziribert](https://github.com/alger-ia/dziribert):alger-ia /!DziriBERT: a Pre-trained Language Model for the Algerian Dialect
+* [login-securite / DonPAPI](https://github.com/login-securite/DonPAPI):login-securite /!Dumping DPAPI credz remotely
+* [swisskyrepo / PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings):swisskyrepo /!A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+* [pyca / cryptography](https://github.com/pyca/cryptography):pyca /!cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
+* [PyTorchLightning / lightning-flash](https://github.com/PyTorchLightning/lightning-flash):PyTorchLightning /!Your PyTorch AI Factory - Flash enables you to easily configure and run complex AI recipes for over 15 tasks across 7 data domains
+* [bkerler / mtkclient](https://github.com/bkerler/mtkclient):bkerler /!Inofficial MTK reverse engineering and flash tool
+* [zero-to-mastery / start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines):zero-to-mastery /!Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
+* [matrix-org / synapse](https://github.com/matrix-org/synapse):matrix-org /!Synapse: Matrix reference homeserver
+* [Pycord-Development / pycord](https://github.com/Pycord-Development/pycord):Pycord-Development /!Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API
+* [scrapy / scrapy](https://github.com/scrapy/scrapy):scrapy /!Scrapy, a fast high-level web crawling & scraping framework for Python.
+* [tiangolo / fastapi](https://github.com/tiangolo/fastapi):tiangolo /!FastAPI framework, high performance, easy to learn, fast to code, ready for production
+* [oppia / oppia](https://github.com/oppia/oppia):oppia /!A free, online learning platform to make quality education accessible for all.
+* [dbt-labs / dbt](https://github.com/dbt-labs/dbt):dbt-labs /!dbt (data build tool) enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
+
+#### swift
+* [MonitorControl / MonitorControl](https://github.com/MonitorControl/MonitorControl):MonitorControl /!🖥
+Control your external monitor brightness & volume on your Mac
+* [vapor / vapor](https://github.com/vapor/vapor):vapor /!💧
+A server-side Swift HTTP web framework.
+* [apple / swift-algorithms](https://github.com/apple/swift-algorithms):apple /!Commonly used sequence and collection algorithms for Swift
+* [pointfreeco / swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture):pointfreeco /!A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+* [devicekit / DeviceKit](https://github.com/devicekit/DeviceKit):devicekit /!DeviceKit is a value-type replacement of UIDevice.
+* [ReactiveX / RxSwift](https://github.com/ReactiveX/RxSwift):ReactiveX /!Reactive Programming in Swift
+* [krzyzanowskim / CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift):krzyzanowskim /!CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift
+* [apollographql / apollo-ios](https://github.com/apollographql/apollo-ios):apollographql /!📱
+A strongly-typed, caching GraphQL client for iOS, written in Swift.
+* [stephencelis / SQLite.swift](https://github.com/stephencelis/SQLite.swift):stephencelis /!A type-safe, Swift-language layer over SQLite3.
+* [hmlongco / Resolver](https://github.com/hmlongco/Resolver):hmlongco /!Swift Ultralight Dependency Injection / Service Locator framework
+* [seemoo-lab / openhaystack](https://github.com/seemoo-lab/openhaystack):seemoo-lab /!Build your own 'AirTags'
+🏷
+today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
+* [apple / swift-experimental-string-processing](https://github.com/apple/swift-experimental-string-processing):apple /!An early experimental general-purpose pattern matching engine for Swift.
+* [CombineCommunity / CombineExt](https://github.com/CombineCommunity/CombineExt):CombineCommunity /!CombineExt provides a collection of operators, publishers and utilities for Combine, that are not provided by Apple themselves, but are common in other Reactive Frameworks and standards.
+* [aws-amplify / amplify-ios](https://github.com/aws-amplify/amplify-ios):aws-amplify /!A declarative library for application development using cloud services.
+* [Alamofire / Alamofire](https://github.com/Alamofire/Alamofire):Alamofire /!Elegant HTTP Networking in Swift
+* [DataDog / dd-sdk-ios](https://github.com/DataDog/dd-sdk-ios):DataDog /!Datadog SDK for iOS - Swift and Objective-C.
+* [rxhanson / Rectangle](https://github.com/rxhanson/Rectangle):rxhanson /!Move and resize windows on macOS with keyboard shortcuts and snap areas
+* [AliSoftware / Reusable](https://github.com/AliSoftware/Reusable):AliSoftware /!A Swift mixin for reusing views easily and in a type-safe way (UITableViewCells, UICollectionViewCells, custom UIViews, ViewControllers, Storyboards…)
+* [ddddxxx / LyricsX](https://github.com/ddddxxx/LyricsX):ddddxxx /!🎶
+Ultimate lyrics app for macOS.
+* [pointfreeco / swift-snapshot-testing](https://github.com/pointfreeco/swift-snapshot-testing):pointfreeco /!📸
+Delightful Swift snapshot testing.
+* [elai950 / AlertToast](https://github.com/elai950/AlertToast):elai950 /!Create Apple-like alerts & toasts using SwiftUI
+* [zepojo / UPCarouselFlowLayout](https://github.com/zepojo/UPCarouselFlowLayout):zepojo /!A fancy carousel flow layout for UICollectionView on iOS.
+* [Shopify / mobile-buy-sdk-ios](https://github.com/Shopify/mobile-buy-sdk-ios):Shopify /!Shopify’s Mobile Buy SDK makes it simple to sell physical products inside your mobile app. With a few lines of code, you can connect your app with the Shopify platform and let your users buy your products using Apple Pay or their credit card.
+* [hyperoslo / Cache](https://github.com/hyperoslo/Cache):hyperoslo /!📦
+Nothing but Cache.
+* [Quick / Nimble](https://github.com/Quick/Nimble):Quick /!A Matcher Framework for Swift and Objective-C
