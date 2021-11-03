@@ -58,4 +58,5 @@ Awesome list of open source applications for macOS. https://t.me/s/opensourcemac
 * [apollographql / apollo-ios](https://github.com/apollographql/apollo-ios):apollographql /!📱
 A strongly-typed, caching GraphQL client for iOS, written in Swift.
 * [apple / swift-log](https://github.com/apple/swift-log):apple /!A Logging API for Swift
-* [malcommac / SwiftDate](https://github.com/malcommac/SwiftDate):malcommac /Toolkit to parse, validate, manipulate, compare and display dates, time & timezones in Swift.
+* [malcommac / SwiftDate](https://github.com/malcommac/SwiftDate):malcommac /!🐔
+Toolkit to parse, validate, manipulate, compare and display dates, time & timezones in Swift.
