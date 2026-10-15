@@ -1,0 +1,31 @@
+## 2026-10-15
+
+#### python
+* [debpalash / VoiceStudio](https://github.com/debpalash/VoiceStudio):debpalash /!VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+* [K-Dense-AI / scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills):K-Dense-AI /!Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+* [HKUDS / CLI-Anything](https://github.com/HKUDS/CLI-Anything):HKUDS /!"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+* [ifixai-ai / iFixAi](https://github.com/ifixai-ai/iFixAi):ifixai-ai /!Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.
+* [Alishahryar1 / free-claude-code](https://github.com/Alishahryar1/free-claude-code):Alishahryar1 /!Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
+* [home-assistant / core](https://github.com/home-assistant/core):home-assistant /!🏡 Open source home automation that puts local control and privacy first.
+* [python / cpython](https://github.com/python/cpython):python /!The Python programming language
+* [MakazhanAlpamys / Soup](https://github.com/MakazhanAlpamys/Soup):MakazhanAlpamys /!Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
+* [aws / agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws):aws /!Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
+* [wshobson / agents](https://github.com/wshobson/agents):wshobson /!Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
+* [p-e-w / heretic](https://github.com/p-e-w/heretic):p-e-w /!Fully automatic censorship removal for language models
+* [sgl-project / sglang](https://github.com/sgl-project/sglang):sgl-project /!SGLang is a high-performance serving framework for large language models and multimodal models.
+* [isair / jarvis](https://github.com/isair/jarvis):isair /!Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or OpenAI-compatible servers on macOS, Windows and Linux.
+* [jamiepine / voicebox](https://github.com/jamiepine/voicebox):jamiepine /!The open-source AI voice studio. Clone, dictate, create.
+* [anthropics / claude-plugins-official](https://github.com/anthropics/claude-plugins-official):anthropics /!Official, Anthropic-managed directory of high quality Claude Code Plugins.
+
+#### swift
+* [xtool-org / xtool](https://github.com/xtool-org/xtool):xtool-org /!Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
+* [altic-dev / FluidVoice](https://github.com/altic-dev/FluidVoice):altic-dev /!Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X exclusive model access! 😉 - https://x.com/fluidvoiceapp
+* [wuwangzhang1216 / ChinaTextbookStudyFree](https://github.com/wuwangzhang1216/ChinaTextbookStudyFree):wuwangzhang1216 /!给所有中国小学生打造的免费学习平台，从一年级到六年级所有的课本知识点全汇总。
+* [farzaa / clicky](https://github.com/farzaa/clicky):farzaa /!
+* [FluidInference / FluidAudio](https://github.com/FluidInference/FluidAudio):FluidInference /!Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.
+* [nicklockwood / SwiftFormat](https://github.com/nicklockwood/SwiftFormat):nicklockwood /!A command-line tool and Xcode Extension for formatting Swift code
+* [altstoreio / AltStore](https://github.com/altstoreio/AltStore):altstoreio /!AltStore is an alternative app store for non-jailbroken iOS devices.
+* [apple / swift-nio](https://github.com/apple/swift-nio):apple /!Event-driven network application framework for high performance protocol servers & clients, non-blocking.
+* [rxhanson / Rectangle](https://github.com/rxhanson/Rectangle):rxhanson /!Move and resize windows on macOS with keyboard shortcuts and snap areas
+* [groue / GRDB.swift](https://github.com/groue/GRDB.swift):groue /!A toolkit for SQLite databases, with a focus on application development
+* [FrizzleM / SideInstaller](https://github.com/FrizzleM/SideInstaller):FrizzleM /!An an app that installs Sidestore on iOS 27, fully on-device
